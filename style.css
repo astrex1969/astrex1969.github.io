@@ -102,9 +102,9 @@ p, h1 {
 }
 
 .ctcbox:hover {
-  -ms-transform: scale(1.02); /* IE 9 */
-  -webkit-transform: scale(1.02); /* Safari 3-8 */
-  transform: scale(1.02);
+  -ms-transform: scale(1.0); /* IE 9 */
+  -webkit-transform: scale(1.0); /* Safari 3-8 */
+  transform: scale(1.0);
   transition: all .7s ease;
 }
 .boxco3{
