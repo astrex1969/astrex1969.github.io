@@ -102,9 +102,9 @@ p, h1 {
 }
 
 .ctcbox:hover {
-  -ms-transform: scale(1.0); /* IE 9 */
-  -webkit-transform: scale(1.0); /* Safari 3-8 */
-  transform: scale(1.0);
+  -ms-transform: scale(1.04); /* IE 9 */
+  -webkit-transform: scale(1.04); /* Safari 3-8 */
+  transform: scale(1.04);
   transition: all .7s ease;
 }
 .boxco3{
@@ -189,9 +189,7 @@ p, h1 {
     color: #ff0000;
     transition: all .4s ease;
 }
-active {
-    color: #ff0000;;
-}
+
 .navbar button {
     padding: 9px 25px;
     display: inline-block;
@@ -294,6 +292,9 @@ imgcontainer {
 }
 .ctcbox h1{
     font-size: 15pt;
+}
+active{
+  color: rgb(255, 0, 0)
 }
 .box2 img {
     float: center;
