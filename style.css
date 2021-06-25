@@ -189,7 +189,9 @@ p, h1 {
     color: #ff0000;
     transition: all .4s ease;
 }
-
+active {
+    color: #ff0000;;
+}
 .navbar button {
     padding: 9px 25px;
     display: inline-block;
